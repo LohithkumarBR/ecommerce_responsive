@@ -17,7 +17,7 @@
 **_Contact Us Section_**<br/>
 ![ecommerce-contact-us-section-v1](https://github.com/user-attachments/assets/a9f2d83c-8c93-4d85-8a41-20b000ce5a47)<br/>
 **_Footer Section_**<br/>
-![ecommerce-footer-section-lg-v1](https://github.com/user-attachments/assets/0140d01e-2f4f-4462-be88-88453e04b998)
+![ecommerce-footer-section-lg-v1](https://github.com/user-attachments/assets/0140d01e-2f4f-4462-be88-88453e04b998)<br/>
 
 
 
