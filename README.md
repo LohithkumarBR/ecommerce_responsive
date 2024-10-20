@@ -2,11 +2,11 @@
 
 # refer to the below images
 
-_Nav-Banner Section_
+**_Nav-Banner Section_**
 
 ![ecommerce-nav-and-banner-xs-v1](https://github.com/user-attachments/assets/6f04cd2c-51f0-4c54-b075-9c336fb0f1c6)
 
-_ Services Section
+**_Services Section_**
 
 ![ecommerce-services-section-md-v1](https://github.com/user-attachments/assets/e2e62f76-5101-4fda-8f4f-3dda9d0fe52d)
 ![ecommerce-products-section-xs-v1](https://github.com/user-attachments/assets/7a466990-209c-47cf-971e-b8e8c2348333)
