@@ -1,4 +1,5 @@
 # ecommerce_responsive
+This project is a fully responsive eCommerce website created using HTML, CSS, Bootstrap. The layout includes a navbar, carousel, and sections such as services, products, offers, trending blogs, and an explore deals section. It offers features like product modals with detailed descriptions, promotional offers, and contact information. The design leverages Bootstrap for responsiveness and font-awesome icons for social media. The website presents an attractive, user-friendly interface with a focus on fast, convenient shopping and customer support​
 
 # refer to the below images
 
