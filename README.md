@@ -2,7 +2,7 @@
 
 # refer to the below images
 
-__ Nav-Banner Section
+** Nav-Banner Section
 
 ![ecommerce-nav-and-banner-xs-v1](https://github.com/user-attachments/assets/6f04cd2c-51f0-4c54-b075-9c336fb0f1c6)
 
