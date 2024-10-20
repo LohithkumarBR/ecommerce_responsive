@@ -14,7 +14,7 @@
 ![ecommerce-trending-blogs-section-md-v1](https://github.com/user-attachments/assets/5e2c050f-6a4d-4da4-a1c1-85cf4d267efa)<br/>
 **_Offers Section_**<br/>
 ![ecommerce-offers-section-md-v1](https://github.com/user-attachments/assets/90894f6c-7a5a-406c-8799-c87b8892e137)<br/>
-**_Contact Us Section_**
+**_Contact Us Section_**<br/>
 ![ecommerce-contact-us-section-v1](https://github.com/user-attachments/assets/a9f2d83c-8c93-4d85-8a41-20b000ce5a47)<br/>
 **_Footer Section_**<br/>
 ![ecommerce-footer-section-lg-v1](https://github.com/user-attachments/assets/0140d01e-2f4f-4462-be88-88453e04b998)
